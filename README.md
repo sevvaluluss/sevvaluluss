@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/62/65/6a/62656abd85e08ca48c55cc43e9959354.jpg)
+[![MasterHead](https://i.pinimg.com/564x/dd/e4/55/dde455501590982a622c392be9089de5.jpg)
 <h1 align="center">Hi 👋, I'm Şevval Ulus</h1>
 <h3 align="center">A passionate ML/AI Engineer from Turkiye</h3>
 
