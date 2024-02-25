@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Şevval Ulus</h1>
 <h3 align="center">A passionate ML/AI Engineer from Turkiye</h3>
 
-- 🔭 I’m currently working on **machine learning**
+- 🔭 I’m currently working on **machine learning, artifical Intelligence**
 
 - 💬 Ask me about **Python,Numpy,Pandas,Matplotlib**
 
